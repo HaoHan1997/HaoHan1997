@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Hao Han, a master degree candidate in Northwestern Polytechnical University(NPU). My major is System Engineering.
+I am now living in xi'an, China.
+- My research intersets focus on **Bayesian Network Structure Learning**, **Machine Learning**, etc.
+- 📫 How to reach me: 2784317596@qq.com
 
 <!--
 **HaoHan1997/HaoHan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
